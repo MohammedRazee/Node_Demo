@@ -1,0 +1,3 @@
+Notebook,250
+Pen,20
+Backpack,899
